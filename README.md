@@ -1,193 +1,210 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26&height=220&section=header&text=Ashutosh%20Dixit&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Senior%20DevSecOps%20%26%20AI%20Platform%20Engineer&descAlignY=62&descSize=19&descColor=79c0ff" width="100%" alt="Header Banner" />
+  <!-- Dynamic Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26&height=220&section=header&text=ASHUTOSH%20DIXIT&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Senior%20DevSecOps%20Architect%20%7C%20Enterprise%20Cloud%20Strategist%20%7C%20Agentic%20AI%20Platform%20Engineer&descAlignY=62&descSize=17&descColor=79c0ff" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing SVG Headline -->
+  <br />
+
+  <!-- Dynamic Cyan Typing Terminal Headline -->
   <a href="https://github.com/Ashu02412">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Senior+DevSecOps+%26+AI+Platform+Engineer+%E2%9A%A1;Architecting+Zero-Trust+Cloud-Native+Platforms+%F0%9F%9B%A1%EF%B8%8F;Building+Production+Agentic+AI+%26+RAG+Infrastructure+%F0%9F%A4%96;Model+Context+Protocol+(MCP)+%26+Autonomous+Agents+%F0%9F%A7%A0;GitOps+%7C+Kubernetes+%7C+LLMOps+%7C+eBPF+%7C+High-Scale+%F0%9F%9A%80" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=860&lines=Architecting+Enterprise+Multi-Cloud+Landing+Zones+%26+Hub-Spoke+Fabrics+%E2%9A%A1;Automating+Zero-Trust+DevSecOps+Pipelines+%26+Production+Terraform+IaC+%F0%9F%9B%A1%EF%B8%8F;Building+Autonomous+AI+Agents%2C+Model+Context+Protocol+(MCP)+%26+Self-Healing+SRE+%F0%9F%A4%96;High-Scale+Kubernetes+%7C+eBPF+Cilium+%7C+SLSA+Level+3+Supply+Chain+%F0%9F%9A%80" alt="Typing Headline" />
   </a>
 
+  <br />
+
+  <!-- Corporate Pill Badges -->
   <p align="center">
-    <strong>Hardening Infrastructure • Accelerating Delivery • Engineering Intelligent Agentic Systems</strong>
+    <a href="mailto:ashu.dixit024@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ASHU.DIXIT024%40GMAIL.COM-E5534B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20PROFESSIONALLY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://github.com/Ashu02412"><img src="https://img.shields.io/badge/GITHUB-ASHU02412-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/STATUS-ARCHITECTING%20NEXT--GEN%20PLATFORMS-238636?style=for-the-badge" alt="Status" />
   </p>
 
-  <!-- Quick Social Badges -->
+  <!-- Executive Impact Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ashu.dixit024@gmail.com"><img src="https://img.shields.io/badge/Email-ashu.dixit024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Ashu02412"><img src="https://img.shields.io/badge/GitHub-Ashu02412-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <img src="https://img.shields.io/badge/100%2B%20Workloads-Migrated%20to%20Cloud-0969DA?style=flat-square" />
+    <img src="https://img.shields.io/badge/RTO%20%3C%2015m%20%7C%20RPO%20%3C%205m-High%20Availability-2DA44E?style=flat-square" />
+    <img src="https://img.shields.io/badge/Zero%20Trust-Multi--Cloud%20Aligned-8957E5?style=flat-square" />
+    <img src="https://img.shields.io/badge/Agentic%20AI-Self--Healing%20SRE-D97706?style=flat-square" />
+    <img src="https://img.shields.io/badge/FinOps-35%25%20Cloud%20Savings-A371F7?style=flat-square" />
+    <img src="https://img.shields.io/badge/SLSA%20Level%203-Certified%20Supply%20Chain-107C41?style=flat-square" />
   </p>
 
 </div>
 
 ---
 
-### 🌐 Executive Summary
+### ⚡ The Mission Control Manifesto
 
-> *"If it’s not automated, it’s broken. If it’s not verified, it’s compromised. If it cannot reason autonomously, it belongs to yesterday."*
+```yaml
+# ==============================================================================
+# ENTERPRISE DEVSECOPS & AGENTIC AI ARCHITECTURE MANIFESTO
+# ==============================================================================
+architect:
+  name: "Ashutosh Dixit"
+  role: "Senior DevSecOps Architect & AI Platform Engineer"
+  coordinates: "Global / Multi-Region Cloud Control Planes"
+  doctrine: "Immutable Infrastructure, Deterministic Security, Autonomous Self-Healing"
 
-I am a **Senior DevSecOps & AI Platform Engineer** operating at the convergence of **Zero-Trust Cloud Infrastructure**, **High-Throughput Kubernetes Platforms**, and **Next-Generation Autonomous AI Systems (LLMOps / Agentic RAG / MCP)**.
+core_tenets:
+  zero_trust: "Never trust perimeter security; cryptographically verify every packet, commit, and artifact"
+  shift_left: "Vulnerabilities caught in pull requests cost 100x less than vulnerabilities in production"
+  gitops_purity: "If Git is not the absolute single source of truth, it is technical debt"
+  agentic_automation: "Replace static threshold alerting with autonomous agents equipped with MCP toolkits"
 
-- 🛡️ **DevSecOps Pioneer**: Designing enterprise-scale SLSA Level 3 supply chains, automated SAST/DAST/SCA security gates, eBPF-powered runtime detection, and continuous compliance.
-- ☸️ **Cloud Native Architect**: Provisioning resilient multi-cloud foundations across AWS, GCP, and Azure using GitOps, Terraform/OpenTofu, and Kubernetes.
-- 🤖 **AI Platform & LLMOps Engineer**: Engineering production AI platforms — orchestrating multi-agent loops (LangGraph, CrewAI), Model Context Protocol (MCP) tool fabrics, high-performance RAG pipelines, and self-hosted model inference (vLLM, Ollama, Triton).
-
----
-
-### 🏛️ Platform Architecture Blueprint
-
-Below is an architectural view of an end-to-end continuous security, cloud infrastructure, and autonomous AI services integration into a unified production control plane:
-
-```mermaid
-flowchart LR
-    subgraph Developer_Plane[" 👨‍💻 Developer & GitOps Plane "]
-        A[Git Commit] --> B[GitHub Actions / Reusable CI]
-        B --> C[Security Shift-Left: Trivy / Sonar / Snyk]
-        C --> D[Image Signing: Cosign / Sigstore]
-        D --> E[GitOps Sync: ArgoCD]
-    end
-
-    subgraph Infrastructure_Plane[" ☸️ Kubernetes & Zero-Trust Mesh "]
-        E --> F[Enterprise EKS / GKE / AKS]
-        F --> G[eBPF Security & Mesh: Cilium / Falco]
-        F --> H[Policy Guardrails: OPA Gatekeeper & Kyverno]
-        F --> I[Secret Management: HashiCorp Vault]
-    end
-
-    subgraph AI_Platform_Plane[" 🤖 AI & Agentic Control Plane "]
-        F --> J[Inference Engines: vLLM / Ollama]
-        J --> K[Vector Engine: Qdrant / Milvus / pgvector]
-        K --> L[Agentic RAG & LangGraph Workflows]
-        L --> M[MCP Gateway: Tool Calling & Extensibility]
-    end
-
-    subgraph Observability_Plane[" 📊 SRE & Telemetry "]
-        G & F & L --> N[OpenTelemetry + Prometheus + Grafana]
-    end
-
-    style Developer_Plane fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#fff
-    style Infrastructure_Plane fill:#0d1117,stroke:#2ea043,stroke-width:2px,color:#fff
-    style AI_Platform_Plane fill:#0d1117,stroke:#a371f7,stroke-width:2px,color:#fff
-    style Observability_Plane fill:#0d1117,stroke:#f0883e,stroke-width:2px,color:#fff
+platform_slos:
+  deployment_velocity: "Production releases: 15+ per day across 4 regions with zero downtime"
+  mttr_reduction: "Sub-5 minute mean time to remediation via LangGraph autonomous triage loops"
+  supply_chain_integrity: "100% Cosign-signed container images with SLSA Level 3 attestations"
+  cloud_efficiency: "Automated Karpenter bin-packing & spot orchestration saving ~35% compute OPEX"
 ```
 
 ---
 
-### 🛠️ Technical Arsenal & Core Competencies
+### 🏛️ Unified Platform Architecture Blueprint
+
+```mermaid
+flowchart LR
+    subgraph GitOps_Security[" 🛡️ DevSecOps & Supply Chain Plane "]
+        A[Developer Push] --> B[GitHub Actions CI]
+        B --> C[TruffleHog + Trivy + SonarQube]
+        B --> D[Cosign Keyless Signing & SLSA Attestations]
+        D --> E[GitOps Reconciler: ArgoCD / Flux]
+    end
+
+    subgraph Cluster_Mesh[" ☸️ Production Multi-Cloud Kubernetes "]
+        E --> F[Multi-Region EKS / AKS / GKE]
+        F --> G[Cilium eBPF Service Mesh & Falco Introspection]
+        F --> H[Kyverno & OPA Gatekeeper Admission Policies]
+        F --> I[HashiCorp Vault Dynamic Secrets & KMS]
+    end
+
+    subgraph AI_Platform[" 🤖 Autonomous AI & Agentic Control Plane "]
+        F --> J[Self-Hosted Inference: vLLM & Ollama Clusters]
+        J --> K[Vector Database: Qdrant / Milvus / pgvector]
+        K --> L[Autonomous SRE Agent: LangGraph / CrewAI]
+        L --> M[Model Context Protocol (MCP) Gateway]
+        M -->|Automated Diagnostic & Healing| F
+    end
+
+    subgraph Telemetry[" 📊 Unified Telemetry & SRE "]
+        G & F & L --> N[OpenTelemetry + Prometheus + Grafana]
+    end
+
+    style GitOps_Security fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#fff
+    style Cluster_Mesh fill:#0d1117,stroke:#2ea043,stroke-width:2px,color:#fff
+    style AI_Platform fill:#0d1117,stroke:#a371f7,stroke-width:2px,color:#fff
+    style Telemetry fill:#0d1117,stroke:#f0883e,stroke-width:2px,color:#fff
+```
+
+---
+
+### 🛠️ Enterprise Technology Matrix
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI Platform, LLMOps & Agents</h4>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=diagram-next&logoColor=white" />
+      <h4>🤖 AI Platform, LLMOps & Autonomous Agents</h4>
       <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-0052CC?style=flat-square&logo=probot&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logo=buffer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Autonomous_Agents-6C5CE7?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=diagram-next&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/CrewAI_Orchestration-FF6F00?style=flat-square&logo=buffer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Production_RAG-6C5CE7?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/vLLM_Inference-000000?style=flat-square&logo=speedtest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" />
-      <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=database&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama_Clusters-FFFFFF?style=flat-square&logo=ollama&logoColor=black" />
+      <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=flat-square&logo=database&logoColor=white" />
       <img src="https://img.shields.io/badge/Milvus-00A4E4?style=flat-square&logo=linuxfoundation&logoColor=white" />
       <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ DevSecOps & Shift-Left Security</h4>
+      <h4>🛡️ DevSecOps & Zero-Trust Security</h4>
       <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-      <img src="https://img.shields.io/badge/Trivy-0052CC?style=flat-square&logo=aquasec&logoColor=white" />
-      <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+      <img src="https://img.shields.io/badge/Trivy_Vulnerability_Scan-0052CC?style=flat-square&logo=aquasec&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snyk_SCA-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
+      <img src="https://img.shields.io/badge/SonarQube_SAST-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
       <img src="https://img.shields.io/badge/Cosign_Sigstore-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Falco_eBPF-00AEC7?style=flat-square&logo=falco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Falco_eBPF_Runtime-00AEC7?style=flat-square&logo=falco&logoColor=white" />
       <img src="https://img.shields.io/badge/OPA_Gatekeeper-4C5C68?style=flat-square&logo=open-policy-agent&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kyverno-1B365D?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kyverno_Policies-1B365D?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/TruffleHog_Secrets-FF9800?style=flat-square&logo=securityscorecard&logoColor=white" />
+      <img src="https://img.shields.io/badge/SLSA_Level_3_Attestation-107C41?style=flat-square&logo=checkmarx&logoColor=white" />
       <img src="https://img.shields.io/badge/OWASP_Top_10_LLM-E74C3C?style=flat-square&logo=shield&logoColor=white" />
-      <img src="https://img.shields.io/badge/SLSA_Level_3-107C41?style=flat-square&logo=securityscorecard&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>☸️ Cloud Native, Containers & GitOps</h4>
+      <h4>☸️ Cloud Native, GitOps & Orchestration</h4>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/ArgoCD-EF6C00?style=flat-square&logo=argo&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArgoCD_GitOps-EF6C00?style=flat-square&logo=argo&logoColor=white" />
       <img src="https://img.shields.io/badge/Helm_3-0F1689?style=flat-square&logo=helm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cilium_eBPF-F36C00?style=flat-square&logo=cilium&logoColor=white" />
-      <img src="https://img.shields.io/badge/Istio_Service_Mesh-466BB0?style=flat-square&logo=istio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cilium_eBPF_Mesh-F36C00?style=flat-square&logo=cilium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform_Production-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenTofu-FFDA00?style=flat-square&logo=opentofu&logoColor=black" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker_Distroless-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions_Reusable-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ansible_Automation-EE0000?style=flat-square&logo=ansible&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Cloud Infrastructure & Observability</h4>
+      <h4>📊 Cloud Infrastructure, FinOps & SRE</h4>
       <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-      <img src="https://img.shields.io/badge/Loki_%26_Tempo-F46800?style=flat-square&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux_Kernel_eBPF-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana_Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenTelemetry_Distributed_Tracing-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+      <img src="https://img.shields.io/badge/Karpenter_Autoscaling-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Kernel_Tuning-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Key Focus & Specialized Engineering Pillars
+### 📦 Production Repositories in This Portfolio
 
-<details open>
-<summary><b>1. Model Context Protocol (MCP) & AI Agent Orchestration</b></summary>
-<br />
-Architecting dynamic MCP client-server backplanes enabling autonomous LLM agents to securely interact with production infrastructure, private data lakes, and runtime APIs:
-<ul>
-  <li><b>Standardized Context</b>: Exposing infrastructure state (Kubernetes pods, AWS resources, CI/CD telemetry) via unified MCP tools.</li>
-  <li><b>Multi-Agent Resilience</b>: State-machine routing via <code>LangGraph</code> with dynamic fallback and loop prevention.</li>
-  <li><b>Guardrailed Tool Execution</b>: Token-based least-privilege RBAC for LLM function calls.</li>
-</ul>
-</details>
-
-<details open>
-<summary><b>2. Enterprise Production-Grade RAG (Retrieval-Augmented Generation)</b></summary>
-<br />
-Building sub-second, enterprise-grade vector retrieval engines resistant to hallucination and data leakage:
-<ul>
-  <li><b>Hybrid Search & Dense Retrieval</b>: Combining BM25 sparse search with dense embeddings in <code>Qdrant</code> & <code>pgvector</code>.</li>
-  <li><b>Self-RAG & Agentic Verification</b>: Post-retrieval reranking (Cohere/BGE), contextual compression, and automated claim verification.</li>
-  <li><b>Data Governance & Tenant Isolation</b>: Partition-level encryption, row-level security (RLS), and automated pipeline ingestion.</li>
-</ul>
-</details>
-
-<details open>
-<summary><b>3. Zero-Trust DevSecOps & Supply Chain Hardening</b></summary>
-<br />
-Embedding security verification at every phase of the Software Development Lifecycle:
-<ul>
-  <li><b>Cryptographic Attestation</b>: Signing container images and SBOMs (Software Bill of Materials) using <code>Cosign</code> and <code>Rekor</code>.</li>
-  <li><b>Runtime Introspection</b>: Leveraging <code>eBPF</code> (Cilium & Falco) for kernel-level anomaly detection and network policy enforcement.</li>
-  <li><b>Admission Control</b>: Restricting cluster deployment via immutable <code>OPA Gatekeeper</code> and <code>Kyverno</code> policies.</li>
-</ul>
-</details>
-
----
-
-### 💡 Featured Architectures & Repositories
-
-| Repository | Focus Area | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **`ai-platform-control-plane`** | AI Infrastructure & MCP | `Python` `LangGraph` `MCP` `vLLM` `K8s` | Multi-agent control plane with dynamic Model Context Protocol routing & RBAC enforcement. |
-| **`enterprise-devsecops-k8s`** | DevSecOps & Cloud Native | `ArgoCD` `Terraform` `Cosign` `Cilium` `Kyverno` | Hardened multi-tenant Kubernetes platform with SLSA Level 3 CI/CD verification. |
-| **`agentic-rag-engine`** | LLMOps & Retrieval | `Qdrant` `FastAPI` `LangChain` `Docker` | Low-latency hybrid RAG engine with contextual reranking and self-healing query expansion. |
-| **`terraform-multicloud-mesh`** | Infrastructure as Code | `OpenTofu` `AWS` `GCP` `HashiCorp Vault` | Zero-trust multi-cloud infrastructure blueprint with dynamic secrets and audit telemetry. |
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Discipline</th>
+      <th>Architecture & Core Innovations</th>
+      <th>Deployment Ready</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Ashu02412/Enterprise-DevSecOps-Kubernetes"><b>Enterprise-DevSecOps-Kubernetes</b></a></td>
+      <td><code>DevSecOps</code> <code>Cloud-Native</code></td>
+      <td>
+        • Multi-AZ EKS / AKS Infrastructure as Code (Terraform)<br />
+        • Cilium eBPF zero-trust default-deny network policies<br />
+        • Kyverno cluster admission control guardrails<br />
+        • Shift-Left CI/CD: TruffleHog, Trivy, SonarQube, Cosign & SLSA Level 3
+      </td>
+      <td><img src="https://img.shields.io/badge/Status-Production%20Grade-238636?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ashu02412/AI-Agentic-DevOps-Automation"><b>AI-Agentic-DevOps-Automation</b></a></td>
+      <td><code>AI Platform</code> <code>LLMOps</code></td>
+      <td>
+        • <b>Model Context Protocol (MCP)</b> Server with K8s runtime tools<br />
+        • Autonomous SRE Agent with LangGraph state-machine loops<br />
+        • Enterprise Hybrid RAG Engine (Qdrant vector retrieval + reranking)<br />
+        • FastAPI incident trigger endpoint & Prometheus metrics
+      </td>
+      <td><img src="https://img.shields.io/badge/Status-Production%20Grade-238636?style=flat-square" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 📈 GitHub Telemetry & Activity Metrics
+### 📈 GitHub Telemetry & Real-Time Performance
 
 <div align="center">
   <table border="0">
@@ -209,7 +226,7 @@ Embedding security verification at every phase of the Software Development Lifec
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 Contribution Activity Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ashu02412/Ashu02412/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
@@ -217,16 +234,18 @@ Embedding security verification at every phase of the Software Development Lifec
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 🤝 Professional Engagement & Advisory
 
 <div align="center">
   <p>
-    Whether you want to discuss <b>Enterprise DevSecOps transformations</b>, <b>Agentic AI Platforms & MCP Architectures</b>, or <b>Large-Scale Kubernetes Resilience</b> — feel free to reach out!
+    Open for architectural advisory, multi-cloud zero-trust audits, and autonomous AI platform engineering.
   </p>
   
   <p>
     <a href="mailto:ashu.dixit024@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-ashu.dixit024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
     <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
     <a href="https://github.com/Ashu02412"><img src="https://img.shields.io/badge/Follow-@Ashu02412-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
@@ -235,6 +254,6 @@ Embedding security verification at every phase of the Software Development Lifec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,2&height=100&section=footer" width="100%" alt="Footer Banner" />
 
   <p align="center">
-    <sub>Crafted with passion, zero-trust discipline, and agentic intelligence. ⚡</sub>
+    <sub>Engineered with deterministic zero-trust discipline and autonomous AI intelligence. ⚡</sub>
   </p>
 </div>
