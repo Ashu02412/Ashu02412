@@ -1,13 +1,20 @@
 <div align="center">
 
-<!-- Animated Header Typing Banner -->
-<a href="https://github.com/Ashu02412">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ashu+Dixit+%F0%9F%91%8B;Senior+DevSecOps+%26+AI+Platform+Engineer;Building+Enterprise+Multi-Cloud+Infrastructure;Architecting+Zero-Trust+CI%2FCD+%26+GitOps;Orchestrating+MCP%2C+Agentic+Swarms+%26+Production+RAG" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <strong>Architecting Resilient Cloud Foundations • Enforcing Zero-Trust Security • Scaling Autonomous Agentic AI</strong>
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="200" valign="middle">
+      <img src="https://raw.githubusercontent.com/Ashu02412/Ashu02412/main/assets/ashu-dixit.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #00D2FF;" alt="Ashu Dixit" />
+    </td>
+    <td align="left" valign="middle">
+      <a href="https://github.com/Ashu02412">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00D2FF&center=false&vCenter=true&width=550&lines=Hi+there!+I'm+Ashu+Dixit+%F0%9F%91%8B;Senior+DevSecOps+%26+AI+Platform+Engineer;Multi-Cloud+Architect+(Azure+%E2%80%A2+AWS+%E2%80%A2+GCP);Zero-Trust+CI%2FCD+%26+Production+GitOps;Model+Context+Protocol+(MCP)+%26+RAG" alt="Typing SVG" />
+      </a>
+      <p>
+        <strong>Architecting Resilient Cloud Foundations • Enforcing Zero-Trust Security • Scaling Autonomous Agentic AI</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Badges Row -->
 <p align="center">
