@@ -200,8 +200,8 @@ flowchart LR
 Let's discuss **DevSecOps transformation**, **cloud landing zones**, **Model Context Protocol (MCP)**, or **production RAG architectures**:
 
 <p align="center">
-  <a href="mailto:ashu.dixit024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashu.dixit024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:ashu05.dixit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashu05.dixit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ashu02412">
     <img src="https://img.shields.io/badge/GitHub-Ashu02412-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
