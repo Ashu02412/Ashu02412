@@ -154,10 +154,11 @@ flowchart LR
 
 | Domain | Focus Area | Key Repositories & Implementations |
 | :--- | :--- | :--- |
-| **DevSecOps** | End-to-End Zero-Trust CI/CD, SAST, SBOM & Cosign Attestation | [`enterprise-devsecops-pipeline`](https://github.com/Ashu02412/enterprise-devsecops-pipeline) • [`azure-aws-gcp-devsecops-mlops-batch-18`](https://github.com/Ashu02412/azure-aws-gcp-devsecops-mlops-batch-18) |
+| **Cloud & Kubernetes Infra** | Enterprise Azure Hub-and-Spoke Microservices Topology | [`azure-microservices-infrastructure`](https://github.com/Ashu02412/azure-microservices-infrastructure) • [`Azure-Landing-Zone`](https://github.com/Ashu02412/Azure-Landing-Zone) |
+| **Application Architecture** | Modular Monolith, Blue/Green CI/CD & Strangler Fig Migration | [`enterprise-modular-monolith`](https://github.com/Ashu02412/enterprise-modular-monolith) |
+| **DevSecOps & Supply Chain** | End-to-End Zero-Trust CI/CD, SAST, SBOM & Cosign Attestation | [`enterprise-devsecops-pipeline`](https://github.com/Ashu02412/enterprise-devsecops-pipeline) • [`azure-aws-gcp-devsecops-mlops-batch-18`](https://github.com/Ashu02412/azure-aws-gcp-devsecops-mlops-batch-18) |
 | **AI Platform & MCP** | Model Context Protocol (MCP) Server for Cloud & K8s Triage | [`mcp-devops-agent`](https://github.com/Ashu02412/mcp-devops-agent) |
 | **Enterprise GenAI & RAG** | Hybrid Search (Dense+BM25), Cross-Encoder Reranking on K8s | [`enterprise-rag-platform`](https://github.com/Ashu02412/enterprise-rag-platform) |
-| **Cloud & IaC** | Enterprise Azure Landing Zones (CAF) & Modular IaC Blueprints | [`Azure-Landing-Zone`](https://github.com/Ashu02412/Azure-Landing-Zone) • [`terraform_module`](https://github.com/Ashu02412/terraform_module) |
 
 ---
 
