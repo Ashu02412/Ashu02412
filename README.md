@@ -199,8 +199,8 @@ Let's discuss **DevSecOps transformation**, **cloud landing zones**, **Model Con
   <a href="https://github.com/Ashu02412">
     <img src="https://img.shields.io/badge/GitHub-Ashu02412-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ashu-dixit-a88074406/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ashu--dixit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
